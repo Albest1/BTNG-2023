@@ -1,0 +1,46 @@
+h1 {
+  color: red;
+}
+h1 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+p {
+  font-size: 15px;
+  background-color: beige;
+}
+span {
+  color: red;
+}
+body {
+  background: ;
+}
+#box.content {
+  width: 400px;
+  height: auto;
+  box-shadow: 10px 13px;
+  color: rgba(red, green, blue, alpha);
+}
+.container {
+  box-shadow: 10px 13px 0 -1px rgb(187, 117, 105);
+}
+.container2 .content {
+  color: blue;
+}
+.container2 p {
+  color: red;
+}
+.container2 h1 {
+  color: pink;
+}
+.box,
+.link {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+.box:hover,
+.link:hover {
+  background-color: blue;
+  color: blue;
+}
